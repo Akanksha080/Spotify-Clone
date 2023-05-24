@@ -117,3 +117,9 @@ nav ul li{
     position: absolute;
     left: 9.5vw;
 }
+
+@media only screen and (max-width: 1100px) {
+    body {
+      background-color:whitesmoke;
+    }
+  }
